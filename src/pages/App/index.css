@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.App {
+  font-family: 'Poppins';
+}
+
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: #297cf0;
+  border-radius: 15px;
+  width: 95%;
+  margin-left: 4px
+}
+
+.ant-pagination-item-active {
+  border-color: #163157;
+}
+
+.ant-pagination-item-active a {
+  color: #163157;
+}
